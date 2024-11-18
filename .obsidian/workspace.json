@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "69d7e8598eaabdb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4fa4928af58380",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81b4f5ff60fd9d7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Narrative.canvas",
+                "viewState": {
+                  "x": 277.98006713867227,
+                  "y": 234.1101831054683,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Narrative"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dac1ca8e2cb07d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2378ac2a62c335fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c595af5a13ff1cb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f827619cb4fecc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "24870e295eaf27a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2bfc3b31413b35a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "40734e1ce59302a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fa5ab548994daf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Narrative.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Narrative"
+            }
+          },
+          {
+            "id": "18fb0317731b3018",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Narrative.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Narrative"
+            }
+          },
+          {
+            "id": "71eeca69a90fbe9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cdc6e3365617cf93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Narrative.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Narrative"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a81b4f5ff60fd9d7",
+  "lastOpenFiles": [
+    "Brainstorm.md",
+    "Narrative.canvas",
+    "Welcome.md"
+  ]
+}

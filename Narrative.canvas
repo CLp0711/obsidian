@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c643d43c7194261b","x":-360,"y":-80,"width":140,"height":60,"type":"text","text":"Breathe"},
+		{"id":"d998cc54593d04dc","x":-415,"y":120,"width":250,"height":280,"type":"text","text":"- Surviving a stroke is unlikely\n- Surviving debt is unlikely\n- Use your second chance at life to give people a second chance with their debt"},
+		{"id":"6a5e52690079be61","type":"text","text":"Plant","x":-5,"y":-80,"width":140,"height":60},
+		{"id":"1e9e11f6aff08330","x":-60,"y":120,"width":250,"height":380,"type":"text","text":"- Second life starts when you realize you only have one\n- Our goal is to work together to help people\n- As a Freedom customer, your second financial life starts when you realize that you don't have to live your life in debt"},
+		{"id":"cfe5403750c13e44","type":"text","text":"Grow","x":370,"y":-80,"width":140,"height":60},
+		{"id":"62cdb1c0b20defa6","type":"text","text":"Flourish","x":710,"y":-80,"width":140,"height":60},
+		{"id":"2bcbbb866c9bfde7","x":315,"y":120,"width":250,"height":320,"type":"text","text":"- Our vision is to grow Freedom and to create growth for our customers.\n- Investors facilitate loans, get a return on investment, and create breathing room for those in debt."},
+		{"id":"70656f50fe1d8ea2","x":655,"y":120,"width":250,"height":400,"type":"text","text":"- Freedom's long-term success is about creating a new credit culture.\n- We want our customers to flourish in the long-run by creating an ecosystem that facilitates both consistent returns for our investors, and freedom for those who need it most."}
+	],
+	"edges":[
+		{"id":"5681ba46886eb2ae","fromNode":"c643d43c7194261b","fromSide":"bottom","toNode":"d998cc54593d04dc","toSide":"top"},
+		{"id":"738cb5034dfd881a","fromNode":"c643d43c7194261b","fromSide":"right","toNode":"6a5e52690079be61","toSide":"left"},
+		{"id":"4da7d975e52f7f30","fromNode":"6a5e52690079be61","fromSide":"right","toNode":"cfe5403750c13e44","toSide":"left"},
+		{"id":"64f4cab990ed6fe3","fromNode":"cfe5403750c13e44","fromSide":"right","toNode":"62cdb1c0b20defa6","toSide":"left"},
+		{"id":"f36299e2805a7b76","fromNode":"6a5e52690079be61","fromSide":"bottom","toNode":"1e9e11f6aff08330","toSide":"top"},
+		{"id":"b1207c633b27e161","fromNode":"cfe5403750c13e44","fromSide":"bottom","toNode":"2bcbbb866c9bfde7","toSide":"top"},
+		{"id":"0ab4eb8aea22435b","fromNode":"62cdb1c0b20defa6","fromSide":"bottom","toNode":"70656f50fe1d8ea2","toSide":"top"}
+	]
+}
